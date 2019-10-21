@@ -1,0 +1,6 @@
+MAIL     FROM:<tester@live.unc.edu>
+RCPT        TO:      <tester@cs.unc.edu>
+DATA
+Man, we really should have started this sooner
+Debugging can be really hard
+.
